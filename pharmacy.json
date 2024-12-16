@@ -1,0 +1,172 @@
+{
+    "pharmacyPage": {
+        "title": "Harrods Hospital Pharmacy",
+        "categories": [
+            {
+                "name": "Analgesics",
+                "medicines": [
+                    {
+                        "name": "Panadol",
+                        "price": 1250,
+                        "image": "images/Panadol.jpeg"
+                    },
+                    {
+                        "name": "Ibuprofen",
+                        "price": 1200,
+                        "image": "images/Ibuprofen.jpeg"
+                    },
+                    {
+                        "name": "Aspirin",
+                        "price": 800,
+                        "image": "images/Aspirin.jpeg"
+                    },
+                    {
+                        "name": "Diclofenac",
+                        "price": 124,
+                        "image": "images/Diclofenac.jpeg"
+                    },
+                    {
+                        "name": "Naproxen",
+                        "price": 142,
+                        "image": "images/Naproxen.jpeg"
+                    },
+                    {
+                        "name": "Codeine",
+                        "price": 1542,
+                        "image": "images/Codein-removebg-preview.png"
+                    }
+                ]
+            },
+            {
+                "name": "Antibiotics",
+                "medicines": [
+                    {
+                        "name": "Amoxicillin",
+                        "price": 156,
+                        "image": "images/Amoxicilin.jpeg"
+                    },
+                    {
+                        "name": "Azithromycin",
+                        "price": 200,
+                        "image": "images/Azithromycin.jpeg"
+                    },
+                    {
+                        "name": "Ciprofloxacin",
+                        "price": 180,
+                        "image": "images/Ciproflaxacin.jpeg"
+                    },
+                    {
+                        "name": "Doxycycline",
+                        "price": 150,
+                        "image": "images/doxycycline.jpeg"
+                    },
+                    {
+                        "name": "Metronidazole",
+                        "price": 1500,
+                        "image": "images/metronidazole.jpeg"
+                    },
+                    {
+                        "name": "Cephalexin",
+                        "price": 1580,
+                        "image": "images/cephalexin.jpeg"
+                    }
+                ]
+            },
+            {
+                "name": "Antidepressants",
+                "medicines": [
+                    {
+                        "name": "Fluoxetine",
+                        "price": 180,
+                        "image": "images/fluoxetine.jpeg"
+                    },
+                    {
+                        "name": "Sertraline",
+                        "price": 250,
+                        "image": "images/sertraline.jpeg"
+                    },
+                    {
+                        "name": "Citalopram",
+                        "price": 180,
+                        "image": "images/citalopram.jpeg"
+                    },
+                    {
+                        "name": "Escitalopram",
+                        "price": 180,
+                        "image": "images/escitalopram.jpeg"
+                    },
+                    {
+                        "name": "Amitriptyline",
+                        "price": 1800,
+                        "image": "images/Amitriptyline.jpeg"
+                    },
+                    {
+                        "name": "Venlafaxine",
+                        "price": 180,
+                        "image": "images/venlafaxine.jpeg"
+                    }
+                ]
+            },
+            {
+                "name": "Antihistamines",
+                "medicines": [
+                    {
+                        "name": "Loratadine",
+                        "price": 80,
+                        "image": "images/loratadine.jpeg"
+                    },
+                    {
+                        "name": "Cetirizine",
+                        "price": 90,
+                        "image": "images/cetirizine.jpeg"
+                    },
+                    {
+                        "name": "Fexofenadine",
+                        "price": 90,
+                        "image": "images/fexofenadine.jpeg"
+                    },
+                    {
+                        "name": "Diphenhydramine",
+                        "price": 700,
+                        "image": "images/Diphenhydramine.jpg"
+                    }
+                ]
+            },
+            {
+                "name": "Antihypertensives",
+                "medicines": [
+                    {
+                        "name": "Amlodipine",
+                        "price": 100,
+                        "image": "images/amlodipine.jpeg"
+                    },
+                    {
+                        "name": "Lisinopril",
+                        "price": 120,
+                        "image": "images/lisinopril.jpeg"
+                    },
+                    {
+                        "name": "Losartan",
+                        "price": 150,
+                        "image": "images/losartan.jpeg"
+                    },
+                    {
+                        "name": "Metoprolol",
+                        "price": 100,
+                        "image": "images/metoprolol.jpeg"
+                    },
+                    {
+                        "name": "Propranolol",
+                        "price": 1000,
+                        "image": "images/propranolol.jpeg"
+                    },
+                    {
+                        "name": "Clonidine",
+                        "price": 16780,
+                        "image": "images/clonidine.jpeg"
+                    }
+                ]
+            }
+        ]
+    }
+}
